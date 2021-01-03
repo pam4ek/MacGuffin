@@ -1,4 +1,4 @@
-# MacGuffin
+# MacGuffin algorithm
 Console version of MacGuffin algo
 
 Menu:
